@@ -1,0 +1,9 @@
+open 1TUP
+set bgColor white
+cartoon
+hide atoms
+select :175,248,273
+style :175,248,273 stick
+color sel red
+label sel
+hide solvent
